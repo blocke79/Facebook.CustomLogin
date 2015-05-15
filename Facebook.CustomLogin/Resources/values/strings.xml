@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+  <string name="app_name">Facebook.CustomLogin</string>
+  <string name="app_id">your-app-id</string>
+  <string name="Login">Log into Facebook</string>
+  <string name="Logout">Logout of Facebook</string>
+
+
+</resources>
